@@ -1,0 +1,38 @@
+body{
+  background:blue;
+}
+
+.center{
+  width: 400px;
+  margin: auto;
+  padding-bottom: 40px;
+}
+
+.paragraph{
+     width: 400px !important;
+     background: white !important;
+     margin: 0px;
+}
+
+.right{
+    float: right;
+    text-decoration: underline;
+}
+
+.left{
+    float: left;
+}
+
+.topImg{
+    background-color: white !important;
+    width: 400px !important;
+    margin: 0px !important;
+    height: 20px !important;
+}
+
+.topImg1{
+    background-color: pink !important;
+    width: 400px !important;
+    margin: 0px !important;
+    height: 40px !important;
+}
